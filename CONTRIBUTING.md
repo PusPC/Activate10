@@ -39,7 +39,7 @@ We welcome your pull requests! Before submitting a pull request, please ensure t
 
 If you want to edit the program, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/PusPC/Windows-10-activator.git`
+1. Clone the repository: `git clone https://github.com/PusPC/Activate10.git`
 2. Right click the file you want to edit and choose: `edit`
 3. You are now ready to edit the program.
 
@@ -51,6 +51,6 @@ By contributing, you agree that your contributions will be licensed under the [L
 
 If you have any questions or need further assistance, feel free to contact the maintainers:
 
-- [Discussions](https://github.com/PusPC/Pus/discussions)
+- [Discussions](https://github.com/PusPC/Activate10/discussions)
 
 Thank you for your contributions!
