@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE) 
 [![Static Badge](https://img.shields.io/badge/contributors-1-green)](https://github.com/PusPC)
 
-![appimage](https://github.com/PusPC/Windows-10-activator/assets/136448868/6fff23fa-014e-4129-89cd-fffa3459b112)
+![appimage](https://github.com/PusPC/Activate10/assets/136448868/6fff23fa-014e-4129-89cd-fffa3459b112)
 
 <p>Using our free to use tool, you can activate ANY Windows 10 version for free!</p>
 <p>It was made in Hungary</p>
@@ -21,7 +21,7 @@
 
 <ol>
   <li>Clone the repository to your local machine.
-    <pre><code>git clone https://github.com/PusPC/Windows-10-activator.git</code></pre>
+    <pre><code>git clone https://github.com/PusPC/Activate10.git</code></pre>
   </li>
   <li>Run the <code>Activate10.bat</code> file with administrator privileges.</li>
   <li>And remove what you don't need from inside the program easily.</li>
@@ -30,7 +30,7 @@
 <h2>Contributing</h2>
 
 <p>If you want to contribute to PusPC, feel free to open an issue, submit a pull request, or provide feedback. Your input is highly valued!</p>
-<p>Other information: <a href="https://github.com/PusPC/Windows-10-activator/blob/main/CONTRIBUTING.md"</a>CONTRIBUTION INFOS AND GUIDELINES</p>
+<p>Other information: <a href="https://github.com/PusPC/Activate10/blob/main/CONTRIBUTING.md"</a>CONTRIBUTION INFOS AND GUIDELINES</p>
 
 <h2>License</h2>
 
@@ -44,7 +44,7 @@
 
 <h2>Support</h2>
 
-<p>For any questions, bug reports, or feature requests, please <a href="https://github.com/PusPC/Windows-10-activator/issues">open an issue</a>.</p>
+<p>For any questions, bug reports, or feature requests, please <a href="https://github.com/PusPC/Activate10/issues">open an issue</a>.</p>
 <p>You can support my work via Patreon: <a href="https://www.patreon.com/Pus537"</a>Click here</p>
 <p>You can support my work By buying me a coffe: <a href="https://www.buymeacoffee.com/PusPC"</a>Click here</p>
 
