@@ -5,12 +5,13 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PusPC/Pus/blob/master/LICENSE) 
 [![Static Badge](https://img.shields.io/badge/contributors-1-green)](https://github.com/PusPC)
 
-![imageapp](https://github.com/PusPC/Pus/assets/136448868/f062d0ee-1c28-4af5-8cda-a2a03cf37be2)
+![appimage](https://github.com/PusPC/Windows-10-activator/assets/136448868/6fff23fa-014e-4129-89cd-fffa3459b112)
 
 <p>Using our free to use tool, you can activate ANY Windows 10 version for free!</p>
 <p>It was made in Hungary</p>
 
-<h2>Features</h2>
+<h2>Features</h2>![Uploading Képernyőkép 2023-12-07 222045.png…]()
+
 
 <ul>
   <li><strong>User-Friendly Interface:</strong> With a simple and intuitive interface, PusPC is designed to be user-friendly, making it accessible to both novice and experienced users.</li>
