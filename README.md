@@ -23,7 +23,7 @@
   <li>Clone the repository to your local machine.
     <pre><code>git clone https://github.com/PusPC/Windows-10-activator.git</code></pre>
   </li>
-  <li>Run the <code>Windows10Activator.bat</code> file with administrator privileges.</li>
+  <li>Run the <code>Activate10.bat</code> file with administrator privileges.</li>
   <li>And remove what you don't need from inside the program easily.</li>
 </ol>
 
