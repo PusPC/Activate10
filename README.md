@@ -30,7 +30,7 @@
 <h2>Contributing</h2>
 
 <p>If you want to contribute to PusPC, feel free to open an issue, submit a pull request, or provide feedback. Your input is highly valued!</p>
-<p>Other information: <a href="https://github.com/PusPC/Pus/blob/main/CONTRIBUTING.md"</a>CONTRIBUTION INFOS AND GUIDELINES</p>
+<p>Other information: <a href="https://github.com/PusPC/Windows-10-activator/blob/main/CONTRIBUTING.md"</a>CONTRIBUTION INFOS AND GUIDELINES</p>
 
 <h2>License</h2>
 
@@ -44,7 +44,7 @@
 
 <h2>Support</h2>
 
-<p>For any questions, bug reports, or feature requests, please <a href="https://github.com/PusPC/Pus/issues">open an issue</a>.</p>
+<p>For any questions, bug reports, or feature requests, please <a href="https://github.com/PusPC/Windows-10-activator/issues">open an issue</a>.</p>
 <p>You can support my work via Patreon: <a href="https://www.patreon.com/Pus537"</a>Click here</p>
 <p>You can support my work By buying me a coffe: <a href="https://www.buymeacoffee.com/PusPC"</a>Click here</p>
 
