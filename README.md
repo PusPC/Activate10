@@ -10,7 +10,7 @@
 <p>Using our free to use tool, you can activate ANY Windows 10 version for free!</p>
 <p>It was made in Hungary</p>
 
-<h2>Features</h2>![Uploading Képernyőkép 2023-12-07 222045.png…]()
+<h2>Features</h2>
 
 
 <ul>
